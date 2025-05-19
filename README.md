@@ -45,3 +45,16 @@ The study investigates how well models trained on the CMU-MOSEI dataset generali
 ```bash
 pip install -r requirements.txt
 
+## Datasets
+
+Public datasets used:
+- [CMU-MOSEI](https://github.com/ecfm/CMU-MultimodalSDK.git)
+- [CAER](https://caer-dataset.github.io/)
+- [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)
+
+Movies-28 is a custom-curated dataset used under fair use (not included).
+
+
+For academic use only. Cite the thesis or related work when using.
+
+
