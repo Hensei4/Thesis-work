@@ -44,7 +44,7 @@ The study investigates how well models trained on the CMU-MOSEI dataset generali
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Datasets
 
 Public datasets used:
